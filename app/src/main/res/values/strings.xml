@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Interface</string>
+    <string name="login">Введите логин</string>
+    <string name="pass">Введите пароль</string>
+    <string name="log_in">Вход</string>
+    <string name="txt1">Правильные пароль и логин:</string>
+    <string name="txt2">user</string>
+    <string name="txt3">password</string>
+    <string name="txt4"> </string>
+</resources>
